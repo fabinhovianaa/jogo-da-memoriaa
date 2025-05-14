@@ -18,7 +18,10 @@ h3 {
 }
 
 #box {
-  margin-left: 29%;
+  margin-left: 33%;
+  margin-inline: center;
+  max-width:  100%; 
+  max-height: 100%;
 }
 .main {
   background-image: url(batata.jpg);
@@ -165,10 +168,3 @@ h3 {
     background-color: orange;
   }
 
-  .posicao{
-    position: center;
-    width:   2150px; 
-    height:  500px;
-    max-width:  100%; 
-    max-height: 100%;
-}
